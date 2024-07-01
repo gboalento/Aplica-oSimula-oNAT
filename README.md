@@ -1,5 +1,5 @@
 # Simulação do Funcionamento do NAT
-Criamos uma aplicação em Python que simula um tráfego entre duas redes distintas e usamos um script dentro da aplicação para observar o funcionamento do NAT. Criamos um dashboard em HTML para observar a gerencia do NAT nos IP's publicos e privados. Podemos observar quadro colunas ao rodar a aplicação, sendo elas o IP privado e o IP publico de saida do pacote da rede 1 para a rede 2, com seu IP publico e IP privado.
+Criamos uma aplicação em Python que simula um tráfego entre duas redes distintas e usamos um script dentro da aplicação para observar o funcionamento do NAT. Criamos um dashboard em HTML para observar a gerencia do NAT nos IP's publicos e privados. Podemos observar quadro colunas ao rodar a aplicação, sendo elas o IP privado e o IP publico de saida do pacote da rede 1 para a rede 2, com seu IP publico e IP privado (Global e Local Entry; Global e Local Exit).
 
 ## Requisitos
 
